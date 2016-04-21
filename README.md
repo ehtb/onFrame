@@ -1,7 +1,7 @@
 # onFrame
 
 Returns a function, that, as long as it continues to be invoked, will not be triggered. 
-The function will be called after it stops being called for N (`frameLength`) animation frames.
+The function will be called after N (`frameLength`) animation frames.
 
 ## API
 
